@@ -7,6 +7,12 @@ SwiftUICounterApp é um aplicativo simples criado com SwiftUI que demonstra como
 - Incrementar o contador ao pressionar o botão "Incrementar".
 - Decrementar o contador ao pressionar o botão "Decrementar".
 - O botão "Decrementar" é desativado quando o contador é igual a zero.
+- 
+## Telas
+<div  style= {display:flex,flex-direction:row }>
+    <img src="screenshots/screenshot1.png" alt="Tela Inicial" width="300">
+    <img src="screenshots/screenshot2.png" alt="Botão Incrementar Pressionado" width="300">
+</div>
 
 ## Pré-requisitos
 
